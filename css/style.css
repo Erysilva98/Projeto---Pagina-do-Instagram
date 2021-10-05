@@ -1,3 +1,6 @@
+/*Font Icones*/
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css');
+
 * {
     padding: 0;
     margin: 0;
@@ -90,9 +93,14 @@ grupo:nth-child(1) {
 
 .outro-usuario {
     color: rgb(160, 160, 160);
+    margin-bottom: .3rem;
 }
 
 .link-blue {
+    color: #0095f6;
+}
+
+.opcoes-conta {
     color: #0095f6;
 }
 
