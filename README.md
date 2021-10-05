@@ -6,3 +6,5 @@
 
     * Criação da pagina Inicial do Instagram
     * Aula da Digital Inovation One
+    * Projeto Conluido
+    * Entregando dia 05/10/2021
