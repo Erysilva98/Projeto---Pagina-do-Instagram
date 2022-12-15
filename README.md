@@ -3,6 +3,9 @@
 
    -- Projeto da Digital Innovation One
 
+### Tela Inicial
+<img src="img/pagina.png" alt="Tela Inicial" height="300px"/>
+
 ### Descrição
 
     * Criação da pagina Inicial do Instagram
